@@ -4,7 +4,7 @@ An end-to-end predictive maintenance framework using
 Gradient Boosting + Conformal Prediction.
 
 ## Live Demo
-http://localhost:8501/
+https://legendary-octo-journey-axvtsyprxscpcceivx45a2.streamlit.app
 
 ## Features
 
